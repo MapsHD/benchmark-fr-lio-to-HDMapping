@@ -1,0 +1,15 @@
+[submodule "src/fr-lio"]
+	path = src/fr-lio
+	url = https://github.com/alvgaona/fr-lio.git
+[submodule "src/ikd-tree"]
+	path = src/ikd-tree
+	url = https://github.com/alvgaona/ikd-tree.git
+[submodule "src/Livox-SDK2"]
+	path = src/Livox-SDK2
+	url = https://github.com/alvgaona/Livox-SDK2.git
+[submodule "src/livox_ros_driver2"]
+	path = src/livox_ros_driver2
+	url = https://github.com/alvgaona/livox_ros_driver2.git
+[submodule "src/fr-lio-to-hdmapping/src/3rdparty/LASzip"]
+	path = src/fr-lio-to-hdmapping/src/3rdparty/LASzip
+	url = https://github.com/LASzip/LASzip.git
